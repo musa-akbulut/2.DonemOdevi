@@ -1,0 +1,2 @@
+rootProject.name = "DonemOdevi"
+include ':app'
